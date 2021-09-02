@@ -1,0 +1,5 @@
+target/
+spark-warehouse/
+.idea/
+comparative_spark.iml
+src/test/resources/output/table_results/
